@@ -1,0 +1,6 @@
+# 画像データ（Fruits-360 から取得。リポジトリには含めない）
+data/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
